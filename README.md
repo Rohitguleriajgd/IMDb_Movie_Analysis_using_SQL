@@ -1,1 +1,2 @@
-# sql_project1
+sql project
+This is my first sql based project 
